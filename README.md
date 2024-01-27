@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ingritTheGrit
-- 👀 I’m interested in ... silly tiktoks and gorfield
-- 🌱 I’m currently learning ... evil deeds and also programming
-- 💞️ I’m looking to collaborate on ... trechory
-- 📫 How to reach me ... don't
+- 👀 I’m interested in ... programming
+- 🌱 I’m currently learning ... programming
+- 💞️ I’m looking to collaborate on ... programming
+- 📫 How to reach me ... do not
 - 😄 Pronouns: ... she
 - ⚡ Fun fact: ... IM AWESOME
 
