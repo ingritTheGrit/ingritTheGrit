@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @ingritTheGrit
-- 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... programming
-- 💞️ I’m looking to collaborate on ... programming
-- 📫 How to reach me ... do not
-- 😄 Pronouns: ... she
-- ⚡ Fun fact: ... IM AWESOME
 
 <!---
 ingritTheGrit/ingritTheGrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
